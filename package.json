@@ -1,0 +1,36 @@
+{
+  "name": "social_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedAmar96/social-network-CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedAmar96/social-network-CRUD/issues"
+  },
+  "homepage": "https://github.com/AhmedAmar96/social-network-CRUD#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.2",
+    "dotenv": "^10.0.0",
+    "easy-rbac": "^3.2.0",
+    "express": "^4.17.2",
+    "http-status-codes": "^2.2.0",
+    "joi": "^17.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.5",
+    "multer": "^1.4.4",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "sharp": "^0.30.2",
+    "yarn": "^1.22.17"
+  }
+}
